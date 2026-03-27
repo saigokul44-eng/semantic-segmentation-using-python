@@ -54,4 +54,4 @@ To solve severe dataset class imbalances (such as extremely rare `Dry Grass` and
    ```
 
 ## Model Weights Download
-[Google Drive link to `model.pth` (102 MB) - INSERT LINK HERE]
+[Google Drive link to `model.pth` (102 MB)](https://drive.google.com/file/d/1jusTtOryMSkkMnUv0u8bh7-AWYIMkrgq/view?usp=drive_link)
