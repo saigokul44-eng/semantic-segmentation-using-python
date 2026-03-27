@@ -1,0 +1,18 @@
+==================================================
+FINAL EVALUATION RESULTS
+==================================================
+Overall mIoU:     0.4818
+Pixel Accuracy:   0.8263
+------------------------------
+Per-Class IoU Details:
+  [0] Flowers         (Val   100): 0.5908
+  [1] Trees           (Val   200): 0.4253
+  [2] Lush Bushes     (Val   300): 0.5453
+  [3] Dry Grass       (Val   500): 0.0811
+  [4] Dry Bushes      (Val   550): 0.3068
+  [5] Ground Clutter  (Val   600): 0.4786
+  [6] Logs            (Val   700): 0.1604
+  [7] Rocks           (Val   800): 0.3048
+  [8] Landscape       (Val  7100): 0.5584
+  [9] Sky             (Val 10000): 0.9621
+==================================================
